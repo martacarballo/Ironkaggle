@@ -1,5 +1,6 @@
 
 Desafío IronKaggle: Predicción de Ventas 🛒
+
 Este proyecto fue desarrollado por Alejandro de Tuero y Marta Carballo como parte del desafío IronKaggle. El objetivo principal es predecir las ventas diarias de una cadena de tiendas utilizando técnicas de análisis de datos y modelos de Machine Learning.
 
 📋 Objetivo del Proyecto
